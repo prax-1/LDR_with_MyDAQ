@@ -28,7 +28,9 @@ display the output on the computer screen. In this project, the output simulates
   - Connect the output of the voltage divider circuit to the input channels of the NI-MyDAQ device.
   - Ensure proper connections and secure wiring to prevent signal loss or interference.
 
-  ![bread1](/images/pic1.jpg) ![bread2](/images/pic2.jpg) ![bread3](/images/pic3.jpg)
+  <!-- ![bread1](/images/pic1.jpg) ![bread2](/images/pic2.jpg) ![bread3](/images/pic3.jpg) -->
+
+  <img src="/images/pic1.jpg" width="425"/> <img src="/images/pic2.jpg" width="425"/> 
 2. **Software Setup**
   - Install LabView software on the computer connected to the NI-MyDAQ device.
   - Set up LabView to interface with the NI-MyDAQ and configure input channels.
