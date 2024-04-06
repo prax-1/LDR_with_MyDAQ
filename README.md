@@ -23,7 +23,6 @@ display the output on the computer screen. In this project, the output simulates
 
 <br>
 <br>
-<br>
 
 ## <ins> Project Setup </ins>
 
