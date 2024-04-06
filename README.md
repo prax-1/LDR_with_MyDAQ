@@ -21,6 +21,10 @@ display the output on the computer screen. In this project, the output simulates
 - Resistors: Used in the voltage divider circuit to create a reference voltage.
 - LabView Software: Utilized for signal processing and displaying output on the computer screen. [Software](https://www.ni.com/en/support/downloads/software-products/download.labview.html#521715)
 
+<br>
+<br>
+<br>
+
 ## <ins> Project Setup </ins>
 
 1. **Hardware Setup**
