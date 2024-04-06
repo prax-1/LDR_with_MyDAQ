@@ -21,15 +21,15 @@ display the output on the computer screen. In this project, the output simulates
 
 ## Project Setup
 
-1. Hardware Setup
+1. **Hardware Setup**
   - Connect the LDR and resistors on the breadboard to create a voltage divider circuit.
   - Connect the output of the voltage divider circuit to the input channels of the NI-MyDAQ device.
   - Ensure proper connections and secure wiring to prevent signal loss or interference.
-2. Software Setup
+2. **Software Setup**
   - Install LabView software on the computer connected to the NI-MyDAQ device.
   - Set up LabView to interface with the NI-MyDAQ and configure input channels.
   - Develop LabView code to process the signal from the NI-MyDAQ and simulate the brightness output based on the LDR readings.
-3. Testing and Calibration
+3. **Testing and Calibration**
   - Test the setup with varying light intensities to calibrate the system.
   - Ensure that the simulated brightness output correlates accurately with the light intensity falling on the LDR.
 
