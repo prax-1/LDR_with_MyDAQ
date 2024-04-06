@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project aims to demonstrate the principles of measurements using NI-MyDAQ and an LDR (Light Dependent Resistor). The setup involves creating a voltage divider circuit using a breadboard, LDR, op-amp,
+This project aims to demonstrate the detect the presence of light using NI-MyDAQ and an LDR (Light Dependent Resistor). The setup involves creating a voltage divider circuit using a breadboard, LDR, op-amp,
 and resistors. The LDR's resistance varies with the intensity of light falling on it, which affects the voltage across it in the voltage divider circuit.
 
 The voltage signal from the voltage divider circuit is fed into the NI-MyDAQ device, which interfaces with a computer. LabView software is utilized to process the signal received from the NI-MyDAQ and 
@@ -13,7 +13,6 @@ display the output on the computer screen. In this project, the output simulates
 - NI-MyDAQ: Data acquisition device used to interface between the physical setup and the computer.
 - LDR (Light Dependent Resistor): Sensing element that varies resistance based on incident light intensity.
 - Breadboard: Used for prototyping and creating the voltage divider circuit.
-- Op-Amp: Amplifies the signal from the voltage divider circuit for better sensitivity.
 - Resistors: Used in the voltage divider circuit to create a reference voltage.
 - LabView Software: Utilized for signal processing and displaying output on the computer screen.
 
