@@ -40,8 +40,8 @@ display the output on the computer screen. In this project, the output simulates
 
 ## Contributors
 
-- [Prakhar Gupta]
-- [Shubham Mehra]
+- [Prakhar Gupta](https://github.com/prax-1)
+- [Shubham Mehra]()
 
 ## License
 This project is licensed under the MIT License.
