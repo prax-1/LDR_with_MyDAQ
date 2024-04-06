@@ -67,7 +67,7 @@ display the output on the computer screen. In this project, the output simulates
 - [Shubham Mehra]()
 
 ## <ins> License </ins>
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](/LICENSE).
 
 ## <ins> Acknowledgements </ins>
 We would like to express our gratitude to the faculty [Dr. Prashanth Vooka](https://iittp.ac.in/dr-prashanth-vooka) and the staff of IIT Tirupati for their guidance and support throughout the project. 
