@@ -30,7 +30,11 @@ display the output on the computer screen. In this project, the output simulates
 
   <!-- ![bread1](/images/pic1.jpg) ![bread2](/images/pic2.jpg) ![bread3](/images/pic3.jpg) -->
 
-  <img src="/images/pic1.jpg" width="425"/> <img src="/images/pic2.jpg" width="425"/> 
+  <p align="center">
+  <img alt="Light" src="/images/pic1.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/images/pic2.jpg" width="45%">
+</p>
 2. **Software Setup**
   - Install LabView software on the computer connected to the NI-MyDAQ device.
   - Set up LabView to interface with the NI-MyDAQ and configure input channels.
