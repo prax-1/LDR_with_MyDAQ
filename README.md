@@ -35,10 +35,18 @@ display the output on the computer screen. In this project, the output simulates
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="/images/pic2.jpg" width="45%">
 </p>
+
 2. **Software Setup**
   - Install LabView software on the computer connected to the NI-MyDAQ device.
   - Set up LabView to interface with the NI-MyDAQ and configure input channels.
   - Develop LabView code to process the signal from the NI-MyDAQ and simulate the brightness output based on the LDR readings.
+
+  <p align="center">
+  <img alt="Light" src="/images/pic4.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="/images/pic5.png" width="45%">
+</p>
+
 3. **Testing and Calibration**
   - Test the setup with varying light intensities to calibrate the system.
   - Ensure that the simulated brightness output correlates accurately with the light intensity falling on the LDR.
