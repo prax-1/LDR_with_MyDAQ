@@ -32,10 +32,10 @@ display the output on the computer screen. In this project, the output simulates
 
 ## Repository Structure
 
-- /LabView_Code: Contains LabView code files for signal processing and output simulation.
-- /Documentation: Includes project documentation, circuit diagrams, and setup instructions.
-- /Images: Contains images of the project setup, circuit diagrams, and screenshots of the LabView interface.
-- /Datasheets: Provide datasheets for components used in the project for reference.
+- /LabView_Code : Contains LabView code files for signal processing and output simulation.
+- /Documentation : Includes project documentation, circuit diagrams, and setup instructions.
+- /Images : Contains images of the project setup, circuit diagrams, and screenshots of the LabView interface.
+- /Datasheets : Provide datasheets for components used in the project for reference.
 
 ## Contributors
 
