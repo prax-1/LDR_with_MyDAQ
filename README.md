@@ -19,7 +19,7 @@ display the output on the computer screen. In this project, the output simulates
 - LDR (Light Dependent Resistor): Sensing element that varies resistance based on incident light intensity. [Datasheet](/Documentation/LDR%20Datasheet.pdf)
 - Breadboard: Used for prototyping and creating the voltage divider circuit.
 - Resistors: Used in the voltage divider circuit to create a reference voltage.
-- LabView Software: Utilized for signal processing and displaying output on the computer screen.
+- LabView Software: Utilized for signal processing and displaying output on the computer screen. [Software](https://www.ni.com/en/support/downloads/software-products/download.labview.html#521715)
 
 ## <ins> Project Setup </ins>
 
