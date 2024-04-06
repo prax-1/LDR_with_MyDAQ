@@ -1,6 +1,6 @@
 # To Develop a VI in Lab view to detect the presence of light using a Light Dependent Resistor (LDR).
 
-## Project Description
+## <ins> Project Description </ins>
 
 This project aims to demonstrate the detect the presence of light using NI-MyDAQ and an LDR (Light Dependent Resistor). The setup involves creating a voltage divider circuit using a breadboard, LDR, op-amp,
 and resistors. The LDR's resistance varies with the intensity of light falling on it, which affects the voltage across it in the voltage divider circuit.
@@ -11,7 +11,7 @@ display the output on the computer screen. In this project, the output simulates
 ![My_DAQ](/images/mydaq.png)
 
 
-## Project Components
+## <ins> Project Components </ins>
 
 - NI-MyDAQ: Data acquisition device used to interface between the physical setup and the computer.
 - LDR (Light Dependent Resistor): Sensing element that varies resistance based on incident light intensity.
@@ -33,21 +33,21 @@ display the output on the computer screen. In this project, the output simulates
   - Test the setup with varying light intensities to calibrate the system.
   - Ensure that the simulated brightness output correlates accurately with the light intensity falling on the LDR.
 
-## Repository Structure
+## <ins> Repository Structure </ins>
 
 - /LabView_Code : Contains LabView code files for signal processing and output simulation.
 - /Documentation : Includes project documentation, circuit diagrams, and setup instructions.
 - /Images : Contains images of the project setup, circuit diagrams, and screenshots of the LabView interface.
 - /Datasheets : Provide datasheets for components used in the project for reference.
 
-## Contributors
+## <ins> Contributors </ins>
 
 - [Prakhar Gupta](https://github.com/prax-1)
 - [Shubham Mehra]()
 
-## License
+## <ins> License </ins>
 This project is licensed under the MIT License.
 
-## Acknowledgements
+## <ins> Acknowledgements </ins>
 We would like to express our gratitude to the faculty [Dr. Prashanth Vooka](https://iittp.ac.in/dr-prashanth-vooka) and the staff of IIT Tirupati for their guidance and support throughout the project. 
 Special thanks to our course instructor for providing valuable insights and resources for the Principles of Measurements course.
