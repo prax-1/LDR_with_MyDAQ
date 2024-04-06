@@ -19,7 +19,7 @@ display the output on the computer screen. In this project, the output simulates
 - Resistors: Used in the voltage divider circuit to create a reference voltage.
 - LabView Software: Utilized for signal processing and displaying output on the computer screen.
 
-## Project Setup
+## <u> Project Setup </u>
 
 1. **Hardware Setup**
   - Connect the LDR and resistors on the breadboard to create a voltage divider circuit.
