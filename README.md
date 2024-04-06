@@ -7,8 +7,9 @@ and resistors. The LDR's resistance varies with the intensity of light falling o
 
 The voltage signal from the voltage divider circuit is fed into the NI-MyDAQ device, which interfaces with a computer. LabView software is utilized to process the signal received from the NI-MyDAQ and 
 display the output on the computer screen. In this project, the output simulates the brightness of a light source, with the intensity increasing as the light falling on the LDR increases.
-<br/>
-![My_DAQ](/images/mydaq.png){: style="padding-top:20px"}
+
+![My_DAQ](/images/mydaq.png)
+
 
 ## Project Components
 
